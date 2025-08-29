@@ -1,5 +1,3 @@
-# utl-sas-and-r-macro-to-convert-pdf-to-text
-SAS and r macro to convert pdf to text
     %let pgm=utl-sas-and-r-macro-to-convert-pdf-to-text;
 
     %stop_submission;
@@ -54,7 +52,7 @@ SAS and r macro to convert pdf to text
     /* =====                    | =======                                           | ======                                  */
     /*               H  W       | * CREATE PDF;                                     | PDF INPUT                               */
     /*               E  E       | -------------                                     | ---------                               */
-    /*    N          I  I       |                                                   |                                         */
+    /*    N          I  I       |                                                   | https://tinyurl.com/4ke779bu            */
     /*    A    S  A  G  G       | %utlfkil(d:/pdf/table.pdf);                       |                                         */
     /*    M    E  G  H  H       |                                                   |                                         */
     /*    E    X  E  T  T       | ods pdf                                           | SEX=F                                   */
@@ -174,7 +172,7 @@ SAS and r macro to convert pdf to text
 
 
     /**************************************************************************************************************************/
-    /*                                                                                                                        */
+    /* https://tinyurl.com/4ke779bu                                                                                           */
     /**************************************************************************************************************************/
 
     * CREATE TEXT FILE;
@@ -275,3 +273,4 @@ SAS and r macro to convert pdf to text
      \___|_| |_|\__,_|
 
     */
+
