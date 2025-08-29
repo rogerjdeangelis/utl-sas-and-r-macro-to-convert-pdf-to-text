@@ -52,7 +52,7 @@ RELATED REPOS ON END
 /* =====                    | =======                                           | ======                                  */
 /*               H  W       | * CREATE PDF;                                     | PDF INPUT                               */
 /*               E  E       | -------------                                     | ---------                               */
-/*    N          I  I       |                                                   |                                         */
+/*    N          I  I       |                                                   | https://tinyurl.com/4ke779bu            */
 /*    A    S  A  G  G       | %utlfkil(d:/pdf/table.pdf);                       |                                         */
 /*    M    E  G  H  H       |                                                   |                                         */
 /*    E    X  E  T  T       | ods pdf                                           | SEX=F                                   */
@@ -172,7 +172,7 @@ ods pdf close;
 
 
 /**************************************************************************************************************************/
-/*                                                                                                                        */
+/* https://tinyurl.com/4ke779bu                                                                                           */
 /**************************************************************************************************************************/
 
 * CREATE TEXT FILE;
@@ -273,3 +273,4 @@ https://github.com/rogerjdeangelis/utl_report_does_not_show_group_variable_acros
  \___|_| |_|\__,_|
 
 */
+
