@@ -1,0 +1,18 @@
+SEX=F
+
+Obs AGE WEIGHT HEIGHT
+  1     13   112    69
+  2     13    84    56
+  3     14    98    65
+SEX          294   190
+
+
+SEX=M
+
+Obs AGE WEIGHT HEIGHT
+  4     14   102    62
+  5     14   102    63
+  6     12    83    57
+SEX          287   182
+             581   372
+
